@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Notable');
+
+body {
+    display: flex;
+    margin-top: 415px;
+    justify-content: center;
+    background-image: url(backgg.jpg);
+    background-size: cover;
+}
+
+p {
+    color: gray;
+    font-family: 'Notable', sans-serif;
+}
